@@ -5,8 +5,8 @@ start
 ->
 :Descarcă imaginile satelitare pentru zonele de interes de la privider-ul ales;
 ->
-:Descarcă parcele conținând posibile clădri de pe serverul ANCPI;
+:Filtrare opțională a parcelelor pe baza selecției de Liste de CF-uri (includere/excludere);
 ->
-:Filtrare opțională pe baza selecției de Liste de CF-uri (includere/excludere);
+:Descarcă parcele din zonele de interes conținând posibile clădri de pe serverul ANCPI;
 stop
 @enduml
