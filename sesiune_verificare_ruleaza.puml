@@ -1,0 +1,10 @@
+@startuml
+title Rulează Sesiune de verificare
+start
+:Procesează parcelele (CF-uri cu geometrie)\ndin zonele de interes indentificând\n- clădiri existente,\n- clădiri nou construite și\n- clădiri dărâmate;
+->
+:Salvează rezultatele;
+->
+:Generează raport;
+stop
+@enduml

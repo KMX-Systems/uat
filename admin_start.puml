@@ -1,0 +1,7 @@
+@startuml
+left to right direction
+actor "Administrator" as admin
+rectangle Aplicatie {
+
+}
+@enduml

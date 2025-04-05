@@ -1,0 +1,12 @@
+@startuml
+title Creează Sesiune de verificare
+start
+:Selectază zonele de interes;
+->
+:Descarcă imaginile satelitare pentru zonele de interes de la privider-ul ales;
+->
+:Descarcă parcele conținând posibile clădri de pe serverul ANCPI;
+->
+:Filtrare opțională pe baza selecției de Liste de CF-uri (includere/excludere);
+stop
+@enduml

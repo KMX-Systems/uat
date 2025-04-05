@@ -1,0 +1,17 @@
+@startuml
+left to right direction
+actor "Utilizator" as user
+rectangle "Aplicație / Administrează Liste de CF-uri" {
+  usecase "Vizualizează Listele cu CF-uri\n[[lista_cf_vizualizare]]" as UC1
+  usecase "Caută CF in Listele de CF-uri\n[[lista_cf_cautare]]" as UC1
+  usecase "Adaugă Listă de CF-uri\n[[lista_cf_adauga]]" as UC2
+  usecase "Modifică Listă de CF-uri\n[[lista_cf_modifica]]" as UC3
+  usecase "Șterge Listă de CF-uri\n[[lista_cf_sterge]]" as UC4
+  usecase "Importă Listă de CF-uri\n[[lista_cf_importa]]" as UC4
+  usecase "Exportă Listă de CF-uri\n[[lista_cf_exporta]]" as UC4
+}
+user --> UC1
+user --> UC2
+user --> UC3
+user --> UC4
+@enduml

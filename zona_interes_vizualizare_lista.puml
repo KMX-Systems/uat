@@ -1,0 +1,8 @@
+@startuml
+left to right direction
+actor "Utilizator" as user
+rectangle "Aplicație / Administrează zone de interes / Vizualizare lisa zonelor de interes" {
+    usecase "Afișează cu diferite culori\nzonele de interes pe harta UAT-ului.\nExista 3 zone de interes implicite nemodificabile:\n- UAT întreg\n- UAT intravilan\n- UAT extravilan" as UC1
+}
+user --> UC1
+@enduml

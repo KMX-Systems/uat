@@ -1,0 +1,19 @@
+@startuml
+left to right direction
+actor "Utilizator" as user
+rectangle "Aplicație / Administrează zone de interes" {
+  usecase "Zona UAT întreg (Zona implicită nemodificabilă)" as UC1
+  usecase "Zona UAT intravilan (Zona implicită nemodificabilă)" as UC2
+  usecase "Zona UAT extravilan (Zona implicită nemodificabilă)" as UC3
+
+  usecase "Vizualizeză lista Zonelor de interes\n[[zona_interes_vizualizare_lista]]" as UC1
+  usecase "Creează Zonă de interes\n[[zona_interes_creeaza]]" as UC2
+  usecase "Modifică Zonă de interes\n[[zona_interes_modifica]]" as UC3
+  usecase "Șterge Zonă de interes\n[[zona_interes_sterge]]" as UC4
+}
+
+user --> UC1
+user --> UC2
+user --> UC3
+user --> UC4
+@enduml
