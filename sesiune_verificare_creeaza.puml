@@ -7,6 +7,6 @@ start
 ->
 :Filtrare opțională a parcelelor pe baza selecției de Liste de CF-uri (includere/excludere);
 ->
-:Descarcă parcele din zonele de interes conținând posibile clădri de pe serverul ANCPI;
+:Descarcă de pe serverul ANCPI parcelele (CF-uri cu geometrie) din zonele de interes conținând posibile clădri;
 stop
 @enduml
