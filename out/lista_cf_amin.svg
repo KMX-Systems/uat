@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="426px" preserveAspectRatio="none" style="width:415px;height:426px;" version="1.1" viewBox="0 0 415 426" width="415px" zoomAndPan="magnify"><defs><filter height="300%" id="f1jto9yehe2jju" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[e2ea13aa62b63fab50249a338ea1fc9c]
+cluster Aplicație / Administrează Liste de CF-uri--><rect fill="#FFFFFF" filter="url(#f1jto9yehe2jju)" height="391" style="stroke: #000000; stroke-width: 1.5;" width="293" x="111" y="24"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="277" x="119" y="40.9659">Aplicație / Administrează Liste de CF-uri</text><ellipse cx="257.5668" cy="90.7684" fill="#FEFECE" filter="url(#f1jto9yehe2jju)" rx="127.5668" ry="28.2684" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="188" x="163.5668" y="89.756">Caută CF in Listele de CF-uri</text><a href="lista_cf_cautare.svg" target="_top" title="lista_cf_cautare.svg" xlink:actuate="onRequest" xlink:href="lista_cf_cautare.svg" xlink:show="new" xlink:title="lista_cf_cautare.svg" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="130" x="192.5668" y="108.8239">lista_cf_cautare.svg</text></a><ellipse cx="257.4352" cy="184.0767" fill="#FEFECE" filter="url(#f1jto9yehe2jju)" rx="106.9352" ry="29.0767" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="152" x="181.4352" y="181.8567">Adaugă Listă de CF-uri</text><a href="lista_cf_adauga.svg" target="_top" title="lista_cf_adauga.svg" xlink:actuate="onRequest" xlink:href="lista_cf_adauga.svg" xlink:show="new" xlink:title="lista_cf_adauga.svg" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="130" x="192.4352" y="200.9247">lista_cf_adauga.svg</text></a><ellipse cx="257.3127" cy="277.143" fill="#FEFECE" filter="url(#f1jto9yehe2jju)" rx="111.3127" ry="29.143" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="158" x="178.3127" y="274.826">Modifică Listă de CF-uri</text><a href="lista_cf_modifica.svg" target="_top" title="lista_cf_modifica.svg" xlink:actuate="onRequest" xlink:href="lista_cf_modifica.svg" xlink:show="new" xlink:title="lista_cf_modifica.svg" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="137" x="188.8127" y="293.8939">lista_cf_modifica.svg</text></a><ellipse cx="257.3767" cy="370.1083" fill="#FEFECE" filter="url(#f1jto9yehe2jju)" rx="106.3767" ry="29.1083" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="151" x="181.8767" y="367.842">Exportă Listă de CF-uri</text><a href="lista_cf_exporta.svg" target="_top" title="lista_cf_exporta.svg" xlink:actuate="onRequest" xlink:href="lista_cf_exporta.svg" xlink:show="new" xlink:title="lista_cf_exporta.svg" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="130" x="192.3767" y="386.9099">lista_cf_exporta.svg</text></a><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><ellipse cx="36.5" cy="198.5" fill="#FEFECE" filter="url(#f1jto9yehe2jju)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M36.5,206.5 L36.5,233.5 M23.5,214.5 L49.5,214.5 M36.5,233.5 L23.5,248.5 M36.5,233.5 L49.5,248.5 " fill="none" filter="url(#f1jto9yehe2jju)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="6" y="268.9659">Utilizator</text><!--MD5=[e71913910ae60f5842a843a20d6ecd39]
+link user to UC1--><path d="M58.65,188.59 C69.64,170.39 84.63,150.3 103,137 C118.24,125.96 136.15,117.55 154.24,111.14 " fill="none" id="user-&gt;UC1" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="159.35,109.38,149.538,108.5288,154.6225,111.0082,152.1431,116.0927,159.35,109.38" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[20aeaa20d1880359803c0703a4b24425]
+link user to UC2--><path d="M67.04,224.66 C92.85,219.12 131.71,210.78 167.53,203.09 " fill="none" id="user-&gt;UC2" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="172.79,201.97,163.1488,199.958,167.9025,203.0245,164.836,207.7781,172.79,201.97" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[17d4c6462e07b4f1b5dbb0e87d08d5e6]
+link user to UC3--><path d="M67.04,237.2 C92.18,242.49 129.71,250.37 164.74,257.73 " fill="none" id="user-&gt;UC3" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="169.89,258.81,161.9071,253.0417,164.9973,257.7799,160.259,260.8701,169.89,258.81" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[b2cfa0738cc752f103aa40c770997175]
+link user to UC4--><path d="M59.45,273.39 C70.42,290.94 85.19,310.16 103,323 C120.97,335.96 142.58,345.4 163.84,352.26 " fill="none" id="user-&gt;UC4" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="168.65,353.77,161.2639,347.255,163.8801,352.2705,158.8647,354.8868,168.65,353.77" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[b85e5a04764862398dbacb69f96c08aa]
+@startuml
+left to right direction
+actor "Utilizator" as user
+rectangle "Aplicație / Administrează Liste de CF-uri" {
+  usecase "Vizualizează Listele cu CF-uri\n[[lista_cf_vizualizare.svg]]" as UC1
+  usecase "Caută CF in Listele de CF-uri\n[[lista_cf_cautare.svg]]" as UC1
+  usecase "Adaugă Listă de CF-uri\n[[lista_cf_adauga.svg]]" as UC2
+  usecase "Modifică Listă de CF-uri\n[[lista_cf_modifica.svg]]" as UC3
+  usecase "Șterge Listă de CF-uri\n[[lista_cf_sterge.svg]]" as UC4
+  usecase "Importă Listă de CF-uri\n[[lista_cf_importa.svg]]" as UC4
+  usecase "Exportă Listă de CF-uri\n[[lista_cf_exporta.svg]]" as UC4
+}
+user - -> UC1
+user - -> UC2
+user - -> UC3
+user - -> UC4
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 12:22:07 EET 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 21.0.6+7-Ubuntu-124.04.1
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

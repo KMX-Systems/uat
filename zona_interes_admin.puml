@@ -6,10 +6,10 @@ rectangle "Aplicație / Administrează zone de interes" {
   usecase "Zona UAT intravilan (Zona implicită nemodificabilă)" as UC2
   usecase "Zona UAT extravilan (Zona implicită nemodificabilă)" as UC3
 
-  usecase "Vizualizeză lista Zonelor de interes\n[[zona_interes_vizualizare_lista]]" as UC1
-  usecase "Creează Zonă de interes\n[[zona_interes_creeaza]]" as UC2
-  usecase "Modifică Zonă de interes\n[[zona_interes_modifica]]" as UC3
-  usecase "Șterge Zonă de interes\n[[zona_interes_sterge]]" as UC4
+  usecase "Vizualizeză lista Zonelor de interes\n[[zona_interes_vizualizare_lista.svg]]" as UC1
+  usecase "Creează Zonă de interes\n[[zona_interes_creeaza.svg]]" as UC2
+  usecase "Modifică Zonă de interes\n[[zona_interes_modifica.svg]]" as UC3
+  usecase "Șterge Zonă de interes\n[[zona_interes_sterge.svg]]" as UC4
 }
 
 user --> UC1

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="259px" preserveAspectRatio="none" style="width:472px;height:259px;" version="1.1" viewBox="0 0 472 259" width="472px" zoomAndPan="magnify"><defs><filter height="300%" id="fzsu8exmj8c27" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[7d9bab9c1ffa8bc6d03a2156f76c68a1]
+cluster Autentificare--><rect fill="#FFFFFF" filter="url(#fzsu8exmj8c27)" height="134" style="stroke: #000000; stroke-width: 1.5;" width="439" x="22" y="114"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="196.5" y="130.9659">Autentificare</text><ellipse cx="121.93" cy="192.1645" fill="#FEFECE" filter="url(#fzsu8exmj8c27)" rx="84.43" ry="28.6645" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="121" x="61.43" y="190.5545">Login ca Utilizator</text><a href="user_start.svg" target="_top" title="user_start.svg" xlink:actuate="onRequest" xlink:href="user_start.svg" xlink:show="new" xlink:title="user_start.svg" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="94" x="74.93" y="209.6224">user_start.svg</text></a><ellipse cx="342.8508" cy="191.9584" fill="#FEFECE" filter="url(#fzsu8exmj8c27)" rx="101.8508" ry="39.9584" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="153" x="266.3508" y="184.12">Login ca Administrator</text><a href="admin_start\n.svg" target="_top" title="admin_start&#10;.svg" xlink:actuate="onRequest" xlink:href="admin_start\n.svg" xlink:show="new" xlink:title="admin_start&#10;.svg" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="80" x="302.8508" y="203.1879">admin_start</text></a><a href="admin_start\n.svg" target="_top" title="admin_start&#10;.svg" xlink:actuate="onRequest" xlink:href="admin_start\n.svg" xlink:show="new" xlink:title="admin_start&#10;.svg" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="27" x="302.8508" y="222.2558">.svg</text></a><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><ellipse cx="122" cy="17.5" fill="#FEFECE" filter="url(#fzsu8exmj8c27)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M122,25.5 L122,52.5 M109,33.5 L135,33.5 M122,52.5 L109,67.5 M122,52.5 L135,67.5 " fill="none" filter="url(#fzsu8exmj8c27)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="91.5" y="87.9659">Utilizator</text><!--MD5=[79a439086b036a57b90a01d7b2f8bbd1]
+entity admin--><ellipse cx="343" cy="17.5" fill="#FEFECE" filter="url(#fzsu8exmj8c27)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M343,25.5 L343,52.5 M330,33.5 L356,33.5 M343,52.5 L330,67.5 M343,52.5 L356,67.5 " fill="none" filter="url(#fzsu8exmj8c27)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="93" x="296.5" y="87.9659">Administrator</text><!--MD5=[c54897972171100a695c898d6b8db7b0]
+link user to UC_1--><path d="M122,92.25 C122,113.28 122,138.49 122,158.18 " fill="none" id="user-&gt;UC_1" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="122,163.32,126,154.32,122,158.32,118,154.32,122,163.32" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[8225b4e929e12af36324f491cbbca6ee]
+link admin to UC_2--><path d="M343,92.25 C343,109.35 343,129.23 343,146.65 " fill="none" id="admin-&gt;UC_2" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="343,151.97,347,142.97,343,146.97,339,142.97,343,151.97" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c18c0fe411fdfb437093791b4e38a083]
+@startuml
+actor "Utilizator" as user
+actor "Administrator" as admin
+
+rectangle "Autentificare" {
+  usecase "Login ca Utilizator\n[[user_start.svg]]" as UC_1
+  usecase "Login ca Administrator\n[[admin_start\n.svg]]" as UC_2
+}
+
+user  - -> UC_1
+admin - -> UC_2
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 12:22:07 EET 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 21.0.6+7-Ubuntu-124.04.1
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

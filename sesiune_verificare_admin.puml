@@ -2,12 +2,12 @@
 left to right direction
 actor "Utilizator" as user
 rectangle "Aplicație / Administrează Sesiuni de verificare" {
-  usecase "Vizualizează Sesiunile de verificare (Raport de verificare)\n[[sesiune_verificare_vizualizare]]" as UC1
-  usecase "Caută CF/CF-uri in Sesiunile de verificare (în rapoarte)\n[[sesiune_verificare_cauta_cf]]" as UC2
-  usecase "Creează Sesiune de verificare\n[[sesiune_verificare_creeaza]]" as UC3
-  usecase "Modifică Sesiune de verificare\n[[sesiune_verificare_modifica]]" as UC4
-  usecase "Șterge Sesiune de verificare\n[[sesiune_verificare_sterge]]" as UC5
-  usecase "Ruleaza Sesiune de verificare\n[[sesiune_verificare_ruleaza]]" as UC6
+  usecase "Vizualizează Sesiunile de verificare (Raport de verificare)\n[[sesiune_verificare_vizualizare.svg]]" as UC1
+  usecase "Caută CF/CF-uri in Sesiunile de verificare (în rapoarte)\n[[sesiune_verificare_cauta_cf.svg]]" as UC2
+  usecase "Creează Sesiune de verificare\n[[sesiune_verificare_creeaza.svg]]" as UC3
+  usecase "Modifică Sesiune de verificare\n[[sesiune_verificare_modifica.svg]]" as UC4
+  usecase "Șterge Sesiune de verificare\n[[sesiune_verificare_sterge.svg]]" as UC5
+  usecase "Ruleaza Sesiune de verificare\n[[sesiune_verificare_ruleaza.svg]]" as UC6
 }
 user --> UC1
 user --> UC2

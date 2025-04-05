@@ -2,10 +2,10 @@
 left to right direction
 actor "Utilizator" as user
 rectangle Aplicatie {
-  usecase "Vizualizează Harta cu Zonele de interes din UAT\n[[vizualizare_harta]]" as UC1
-  usecase "Administrează Zone de interes din UAT\n[[admin_zone_interes]]" as UC2
-  usecase "Adminstrează Liste de CF-uri\n[[admin_liste_cf]]" as UC3
-  usecase "Adminstrează Sesiunile de verificare\n[[admin_sesiuni_verificare]]" as UC4
+  usecase "Vizualizează Harta cu Zonele de interes din UAT\n[[vizualizare_harta.svg]]" as UC1
+  usecase "Administrează Zone de interes din UAT\n[[admin_zone_interes.svg]]" as UC2
+  usecase "Adminstrează Liste de CF-uri\n[[admin_liste_cf.svg]]" as UC3
+  usecase "Adminstrează Sesiunile de verificare\n[[admin_sesiuni_verificare.svg]]" as UC4
 }
 user --> UC1
 user --> UC2

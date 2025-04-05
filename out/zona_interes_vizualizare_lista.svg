@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="221px" preserveAspectRatio="none" style="width:666px;height:221px;" version="1.1" viewBox="0 0 666 221" width="666px" zoomAndPan="magnify"><defs><filter height="300%" id="f1dwnjquc6w513" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[f3622d7f306e7e6fc9b472f34a6c4abf]
+cluster Aplicație / Administrează zone de interes / Vizualizare lisa zonelor de interes--><rect fill="#FFFFFF" filter="url(#f1dwnjquc6w513)" height="186" style="stroke: #000000; stroke-width: 1.5;" width="544" x="111" y="24"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="528" x="119" y="40.9659">Aplicație / Administrează zone de interes / Vizualizare lisa zonelor de interes</text><ellipse cx="382.3507" cy="127.868" fill="#FEFECE" filter="url(#f1dwnjquc6w513)" rx="182.3507" ry="65.368" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="171" x="296.8507" y="88.611">Afișează cu diferite culori</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="243" x="260.8507" y="107.6789">zonele de interes pe harta UAT-ului.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="329" x="217.8507" y="126.7468">Exista 3 zone de interes implicite nemodificabile:</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="81" x="341.8507" y="145.8147">- UAT întreg</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="104" x="330.3507" y="164.8827">- UAT intravilan</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="106" x="329.3507" y="183.9506">- UAT extravilan</text><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><ellipse cx="36.5" cy="95.5" fill="#FEFECE" filter="url(#f1dwnjquc6w513)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M36.5,103.5 L36.5,130.5 M23.5,111.5 L49.5,111.5 M36.5,130.5 L23.5,145.5 M36.5,130.5 L49.5,145.5 " fill="none" filter="url(#f1dwnjquc6w513)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="6" y="165.9659">Utilizator</text><!--MD5=[e71913910ae60f5842a843a20d6ecd39]
+link user to UC1--><path d="M67.13,128 C96.75,128 144.96,128 194.82,128 " fill="none" id="user-&gt;UC1" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="199.97,128,190.97,124,194.97,128,190.97,132,199.97,128" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[70e4d971175583ff6ba19b18e90b7e0f]
+@startuml
+left to right direction
+actor "Utilizator" as user
+rectangle "Aplicație / Administrează zone de interes / Vizualizare lisa zonelor de interes" {
+    usecase "Afișează cu diferite culori\nzonele de interes pe harta UAT-ului.\nExista 3 zone de interes implicite nemodificabile:\n- UAT întreg\n- UAT intravilan\n- UAT extravilan" as UC1
+}
+user - -> UC1
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 12:22:07 EET 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 21.0.6+7-Ubuntu-124.04.1
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

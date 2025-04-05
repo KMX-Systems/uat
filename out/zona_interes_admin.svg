@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="438px" preserveAspectRatio="none" style="width:458px;height:438px;" version="1.1" viewBox="0 0 458 438" width="458px" zoomAndPan="magnify"><defs><filter height="300%" id="f1oez0eq27xvhn" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[ddf2db653e63c7ef03c12308bad49cee]
+cluster Aplicație / Administrează zone de interes--><rect fill="#FFFFFF" filter="url(#f1oez0eq27xvhn)" height="403" style="stroke: #000000; stroke-width: 1.5;" width="336" x="111" y="24"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="284" x="137" y="40.9659">Aplicație / Administrează zone de interes</text><ellipse cx="278.8457" cy="94.7691" fill="#FEFECE" filter="url(#f1oez0eq27xvhn)" rx="151.8457" ry="32.7691" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="233" x="162.3457" y="91.8084">Vizualizeză lista Zonelor de interes</text><a href="zona_interes_vizualizare_lista.svg" target="_top" title="zona_interes_vizualizare_lista.svg" xlink:actuate="onRequest" xlink:href="zona_interes_vizualizare_lista.svg" xlink:show="new" xlink:title="zona_interes_vizualizare_lista.svg" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="224" x="166.8457" y="110.8763">zona_interes_vizualizare_lista.svg</text></a><ellipse cx="279.0024" cy="193.1956" fill="#FEFECE" filter="url(#f1oez0eq27xvhn)" rx="122.0024" ry="29.6956" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="163" x="197.5024" y="189.3111">Creează Zonă de interes</text><a href="zona_interes_creeaza.svg" target="_top" title="zona_interes_creeaza.svg" xlink:actuate="onRequest" xlink:href="zona_interes_creeaza.svg" xlink:show="new" xlink:title="zona_interes_creeaza.svg" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="170" x="194.0024" y="208.379">zona_interes_creeaza.svg</text></a><ellipse cx="278.9103" cy="287.1323" fill="#FEFECE" filter="url(#f1oez0eq27xvhn)" rx="125.9103" ry="29.6323" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="167" x="195.4103" y="283.1572">Modifică Zonă de interes</text><a href="zona_interes_modifica.svg" target="_top" title="zona_interes_modifica.svg" xlink:actuate="onRequest" xlink:href="zona_interes_modifica.svg" xlink:show="new" xlink:title="zona_interes_modifica.svg" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="176" x="190.9103" y="302.2252">zona_interes_modifica.svg</text></a><ellipse cx="278.9736" cy="381.1414" fill="#FEFECE" filter="url(#f1oez0eq27xvhn)" rx="115.4736" ry="29.6414" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="153" x="202.4736" y="377.1795">Șterge Zonă de interes</text><a href="zona_interes_sterge.svg" target="_top" title="zona_interes_sterge.svg" xlink:actuate="onRequest" xlink:href="zona_interes_sterge.svg" xlink:show="new" xlink:title="zona_interes_sterge.svg" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="161" x="198.4736" y="396.2474">zona_interes_sterge.svg</text></a><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><ellipse cx="36.5" cy="207.5" fill="#FEFECE" filter="url(#f1oez0eq27xvhn)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M36.5,215.5 L36.5,242.5 M23.5,223.5 L49.5,223.5 M36.5,242.5 L23.5,257.5 M36.5,242.5 L49.5,257.5 " fill="none" filter="url(#f1oez0eq27xvhn)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="6" y="277.9659">Utilizator</text><!--MD5=[e71913910ae60f5842a843a20d6ecd39]
+link user to UC1--><path d="M58.6,197.53 C69.58,179.32 84.58,159.23 103,146 C119.35,134.26 138.38,125.2 157.75,118.22 " fill="none" id="user-&gt;UC1" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="162.68,116.49,152.8628,115.701,157.9629,118.1481,155.5158,123.2483,162.68,116.49" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[20aeaa20d1880359803c0703a4b24425]
+link user to UC2--><path d="M67.47,234.14 C95.31,228.7 138.36,220.29 178.29,212.49 " fill="none" id="user-&gt;UC2" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="183.65,211.44,174.0501,209.2396,178.7427,212.3986,175.5838,217.0912,183.65,211.44" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[17d4c6462e07b4f1b5dbb0e87d08d5e6]
+link user to UC3--><path d="M67.47,245.86 C94.89,251.22 137.06,259.46 176.47,267.16 " fill="none" id="user-&gt;UC3" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="181.77,268.19,173.7038,262.5388,176.8627,267.2314,172.1701,270.3904,181.77,268.19" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[b2cfa0738cc752f103aa40c770997175]
+link user to UC4--><path d="M58.19,282.17 C69.16,300.55 84.28,320.85 103,334 C123.51,348.41 148.21,358.4 172.51,365.33 " fill="none" id="user-&gt;UC4" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="177.36,366.68,169.7608,360.4148,172.5428,365.3403,167.6173,368.1223,177.36,366.68" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[86308adf0eaa203b9a9ab1c591055d40]
+@startuml
+left to right direction
+actor "Utilizator" as user
+rectangle "Aplicație / Administrează zone de interes" {
+  usecase "Zona UAT întreg (Zona implicită nemodificabilă)" as UC1
+  usecase "Zona UAT intravilan (Zona implicită nemodificabilă)" as UC2
+  usecase "Zona UAT extravilan (Zona implicită nemodificabilă)" as UC3
+
+  usecase "Vizualizeză lista Zonelor de interes\n[[zona_interes_vizualizare_lista.svg]]" as UC1
+  usecase "Creează Zonă de interes\n[[zona_interes_creeaza.svg]]" as UC2
+  usecase "Modifică Zonă de interes\n[[zona_interes_modifica.svg]]" as UC3
+  usecase "Șterge Zonă de interes\n[[zona_interes_sterge.svg]]" as UC4
+}
+
+user - -> UC1
+user - -> UC2
+user - -> UC3
+user - -> UC4
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 12:22:07 EET 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 21.0.6+7-Ubuntu-124.04.1
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

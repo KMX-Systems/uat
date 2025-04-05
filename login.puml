@@ -3,8 +3,8 @@ actor "Utilizator" as user
 actor "Administrator" as admin
 
 rectangle "Autentificare" {
-  usecase "Login ca Utilizator\n[[user_start]]" as UC_1
-  usecase "Login ca Administrator\n[[admin_start\n]]" as UC_2
+  usecase "Login ca Utilizator\n[[user_start.svg]]" as UC_1
+  usecase "Login ca Administrator\n[[admin_start\n.svg]]" as UC_2
 }
 
 user  --> UC_1
